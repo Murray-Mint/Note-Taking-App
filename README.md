@@ -1,2 +1,2 @@
-A note taking app that using React.js
+A note taking app  sing React.js
 Includes functional components, props, mapping, object and array destructuring, spread operator, hooks.
